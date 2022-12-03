@@ -1,4 +1,6 @@
 # ohjelmointi1
+TOL ohjelmointi 1
+
 päätinpäs upata tännekkin nämä mun tehtävät
 
 lähinnä että pysyis tiedot läppärin ja pc:n välillä samoina.
